@@ -1,0 +1,15 @@
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\bin\Debug\net8.0\vjezbanje.exe
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\bin\Debug\net8.0\vjezbanje.deps.json
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\bin\Debug\net8.0\vjezbanje.runtimeconfig.json
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\bin\Debug\net8.0\vjezbanje.dll
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\bin\Debug\net8.0\vjezbanje.pdb
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\vjezbanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\vjezbanje.AssemblyInfoInputs.cache
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\vjezbanje.AssemblyInfo.cs
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\vjezbanje.csproj.CoreCompileInputs.cache
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\vjezbanje.dll
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\refint\vjezbanje.dll
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\vjezbanje.pdb
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\vjezbanje.genruntimeconfig.cache
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\ref\vjezbanje.dll
+C:\Users\Kukac\source\repos\vjezbanje\vjezbanje\obj\Debug\net8.0\vjezbanje.sourcelink.json
